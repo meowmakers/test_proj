@@ -9,3 +9,7 @@ def good_bay():
 =======
 def move():
     print('я еду куда подадьше!')
+
+    
+def num():
+    print('введи число')
